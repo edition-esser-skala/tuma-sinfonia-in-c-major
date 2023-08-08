@@ -1,0 +1,19 @@
+composer:
+  last: Tůma
+  first: František Ignác Antonín
+title: Sinfonia in C major
+genre: sinfonia
+scoring: 2 clno (C), timp (C–G), 2 vl, b
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: D-B
+    shelfmark: 55 MS 10052
+    date: 1800
+    rism: 461005200
+    url: https://resolver.staatsbibliothek-berlin.de/SBB00032A8900000000
+    license: public domain
+    principal: true
+imslp:
+parts:
+  ottoni: Clarino I, II in C\\Timpani in C–G
